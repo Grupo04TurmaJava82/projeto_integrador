@@ -1,7 +1,7 @@
 function Metodologia() {
   return (
-    <div className="bg-[#00478f]">
-      <div className="max-w-5xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
+    <div className="bg-[#00335F]">
+      <div className="max-w-7xl px-4 xl:px-0 py-10 lg:pt-20 lg:pb-20 mx-auto">
         {/* Título */}
         <div className="max-w-3xl mb-10 lg:mb-14">
           <h2 className="text-[#ff5d00] font-bold text-2xl md:text-4xl md:leading-tight">
@@ -14,13 +14,13 @@ function Metodologia() {
           </p>
         </div>
 
-        {/* Grid */}
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-16 lg:items-center">
+        {/* Layout em duas colunas */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 lg:gap-20 items-center">
           {/* Imagem */}
-          <div className="aspect-w-16 aspect-h-9 lg:aspect-none">
+          <div className="flex justify-center">
             <img
-              className="w-100 object-cover rounded-xl shadow-lg"
-              src="https://ik.imagekit.io/eduardotosta/fitness_spring/87aa1ccc-45c3-469e-bda4-4fc37f98635a.png?updatedAt=1751546907774"
+              className="w-[300px] sm:w-[400px] lg:w-[500px] xl:w-[600px] object-contain"
+              src="https://ik.imagekit.io/eduardotosta/fitness_spring/login_semfundo.png?updatedAt=1751562054092"
               alt="Logo GYMBRO"
             />
           </div>
