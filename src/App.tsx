@@ -1,10 +1,12 @@
 import "./App.css";
-import Home from "./pages/home/Home";
+import Introducao from "./pages/introducao/Introducao";
 
 function App() {
   return (
     <>
-      <Home />
+      <section>
+        <Introducao />
+      </section>
     </>
   );
 }
