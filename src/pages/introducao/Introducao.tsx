@@ -11,7 +11,7 @@ function Introducao() {
           <div className="relative w-full flex justify-center">
             <div className="relative z-10">
               <img
-                src="https://ik.imagekit.io/eduardotosta/fitness_spring/87aa1ccc-45c3-469e-bda4-4fc37f98635a.png?updatedAt=1751546907774"
+                src="https://ik.imagekit.io/eduardotosta/fitness_spring/gymbro%20smart%20cut(1).png?updatedAt=1751547575722"
                 alt="Logo Gymbro"
                 className="w-80 h-auto object-contain"
               />

@@ -20,7 +20,7 @@ function Metodologia() {
           <div className="aspect-w-16 aspect-h-9 lg:aspect-none">
             <img
               className="w-full object-cover rounded-xl shadow-lg"
-              src="https://ik.imagekit.io/eduardotosta/fitness_spring/gymbro%20smart%20cut(1).png?updatedAt=1751547575722"
+              src="https://ik.imagekit.io/eduardotosta/fitness_spring/87aa1ccc-45c3-469e-bda4-4fc37f98635a.png?updatedAt=1751546907774"
               alt="Logo GYMBRO"
             />
           </div>
