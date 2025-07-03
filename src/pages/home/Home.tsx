@@ -14,12 +14,9 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-[#d8e1e7] text-[#2a231f]">
       {/* Header */}
-      <header className="bg-[#005694] text-white py-12 px-6 text-center shadow-md flex flex-col items-center gap-4">
+      <header className="bg-[#00335F] text-white py-12 px-6 text-center shadow-md flex flex-col items-center gap-4">
         {/* Logo */}
-        <img src={logo} alt="Logo Gymbro" className="w-100 h-100" />
-
-        {/* Título e subtítulo */}
-        <h1 className="text-4xl font-bold mb-2">Gymbro</h1>
+        <img src={logo} alt="Logo Gymbro" className="h-100" />
         <p className="text-lg">Seu parceiro ideal para treinar com disciplina, foco e motivação.</p>
       </header>
 
@@ -37,7 +34,7 @@ export default function Home() {
       </section>
 
       {/* Chamada para ação */}
-      <section className="bg-[#005694] text-white text-center py-20 px-6 mt-12">
+      <section className="bg-[#00335F] text-white text-center py-20 px-6 mt-12">
         <h2 className="text-3xl font-bold mb-4">Pronto para transformar sua rotina?</h2>
         <p className="mb-6">Cadastre-se agora e junte-se a milhares de pessoas focadas em alcançar seus objetivos.</p>
         <button className="bg-[#ff5d00] text-white px-6 py-3 rounded-full font-semibold hover:bg-[#e65300] transition">
