@@ -13,7 +13,7 @@ function Introducao() {
               <img
                 src="https://ik.imagekit.io/eduardotosta/fitness_spring/gymbro%20smart%20cut(1).png?updatedAt=1751547575722"
                 alt="Logo Gymbro"
-                className="w-80 h-auto object-contain"
+                className="w-100 h-auto object-contain"
               />
             </div>
           </div>
