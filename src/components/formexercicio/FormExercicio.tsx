@@ -2,11 +2,10 @@ function FormExercicio() {
     return (
         // Container com background de imagem
         <div
-            className="relative min-h-screen flex items-center justify-center bg-center bg-gray-50 py-16 px-6 sm:px-10 lg:px-16 bg-gray-500 bg-no-repeat bg-cover relative items-center"
-            style={{ backgroundImage: "url('https://ik.imagekit.io/vek/Projeto%20Integrador/Academia/formBackground.png?updatedAt=1751549317948')" }}
+            className="relative min-h-screen flex items-center justify-center bg-center bg- py-16 px-6 sm:px-10 lg:px-16 bg-[#003461] bg-no-repeat bg-cover relative items-center"
         >
             {/* Sobreposição preta para escurecer o fundo */}
-            <div className="absolute bg-black opacity-60 inset-0 z-0"></div>
+            <div className="absolute inset-0 z-0"></div>
             {/* Card maior */}
             <div className="max-w-2xl w-full space-y-12 p-14 bg-white rounded-2xl shadow-2xl z-10">
                 {/* Grid para organizar o conteúdo */}
